@@ -1,1 +1,1 @@
-# CS224n-assignmens
+# CS224n-assignments
